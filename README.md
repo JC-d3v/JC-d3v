@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JC-d3v
-- 👀 I’m interested in continous learning ...
+- 👀 I’m interested in continous learning.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on your present or future project...
+- 💞️ I’m looking to collaborate in your current or future project.
 - 📫 If you need help, you can write me an email [calderon.rjorge@gmail.com](mailto:calderon.rjorge@gmail.com)
 
 <!---
