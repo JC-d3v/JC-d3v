@@ -35,9 +35,9 @@ A really love books 📕, and movies 🎥.
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Unix || Mac || Windows ||
-- 🌐 &nbsp; HTML || CSS ||
-- 🛢 &nbsp; MySQL || MsSql || 
-- 🔧 &nbsp; Visual Studio code  || Git || 
+- 🌐 &nbsp; HTML || CSS || C#. || JavaScript || VBA
+- 🛢 &nbsp; MySQL || MsSql || PostgreSQL || Mongo DB
+- 🔧 &nbsp; Visual Studio code  || Git || Visual Studio
 - 🖥 &nbsp; Photoshop || Ligthroom || 
 
 
